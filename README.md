@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Luis. I'm a technologist, developer, and content creator based out of the NYC area. Currently at Microsoft working on Machine Learning for .NET.
+
+You can find me at [lqdev.me](http://lqdev.me) and [elsewhere](http://lqdev.me/contact)
+
+<a rel="me" href="https://toot.lqdev.tech/@lqdev" style="hidden:true"></a>
+
 <!--
 **lqdev/lqdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
